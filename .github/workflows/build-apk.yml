@@ -1,0 +1,4 @@
+name: Construire Poule tri One V2
+
+on:
+  workflow_dispatch:
