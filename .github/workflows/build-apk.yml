@@ -1,7 +1,6 @@
-name: Construire Poule tri One V2
-
 on:
   workflow_dispatch:
 
 jobs:
   build-apk:
+    runs-on: ubuntu-latest
